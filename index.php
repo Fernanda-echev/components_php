@@ -47,7 +47,9 @@ require_once 'components/textarea.php';
         ?>
 
 
-
+        <?php
+        buttonComponen('Cadastrar')
+        ?>
 </div>
 
 
